@@ -1,0 +1,4 @@
+2022-12-14 13:41:38	INFO: Start ISEMS-UI app, server listening on port 8888, host 172.16.10.5
+2022-12-14 13:41:38	INFO: Connection with module 'Managing Records Structured Information About Computer Threats'  (middleware/index.js)
+2022-12-14 13:41:38	INFO: Connection with module 'Network Interaction Handler'  (middleware/index.js)
+2022-12-14 13:41:59	INFO: authentication user name 'administrator'
